@@ -41,8 +41,10 @@ De esta experimentación obtener:
     - c)	Los gráficos resultantes de la serie de tiempo
     
 6.	Del mejor MSE del resultado anterior, experimentar con el mismo nro de épocas y el mismo número de batch las neuronas de capa oculta del sistema:
-    Experimentos	RMSE
-    - Obtener el valor del “loss” con 10 neuronas capa oculta	
+
+  	 Experimentos	RMSE
+
+  	 - Obtener el valor del “loss” con 10 neuronas capa oculta	
     - Obtener el valor del “loss” con 20 neuronas capa oculta	
     - Obtener el valor del “loss” con 30 neuronas capa oculta	
     - Obtener el valor del “loss” con 40 neuronas capa oculta	
