@@ -10,14 +10,17 @@ Para esto se pide:
 2.	Normalizar los datos filtrados entre -1 y 1
 
 3.	Experimentar: Con un Batch=32
-    Experimentos	RMSE
-    - Obtener el valor del “loss” con 1 época	
+
+  	Experimentos	RMSE
+
+  	 - Obtener el valor del “loss” con 1 época	
     - Obtener el valor del “loss” con 100 épocas	
     - Obtener el valor del “loss” con 200 épocas	
     - Obtener el valor del “loss” con 400 épocas	
     - Obtener el valor del “loss” con 600 épocas	
     - Obtener el valor del “loss” con 800 épocas	
     - Obtener el valor del “loss” con 1000 épocas	
+
 De esta experimentación obtener:
 
   - a)	Una gráfica de loss(eje y) vs Épocas (eje x)
@@ -25,7 +28,8 @@ De esta experimentación obtener:
   - c)	Los gráficos resultantes de la serie de tiempo
 
 4.	Del mejor MSE del resultado anterior, experimentar con el mismo nro de épocas los siguientes Batch y obtener el RMSE:
-    Experimentos	RMSE
+
+  	Experimentos	RMSE
   	
     - Obtener el valor del “loss” con 1 Batch	
     - Obtener el valor del “loss” con 16 Batch	
@@ -52,6 +56,7 @@ De esta experimentación obtener:
     - Obtener el valor del “loss” con 60 neuronas capa oculta	
 
 De esta experimentación obtener:
+
     - d)	Una gráfica de loss(eje y) vs Neuronas (eje x)
     - e)	El RMSE para cada caso
     - f)	Los gráficos resultantes de la serie de tiempo
