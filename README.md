@@ -57,10 +57,13 @@ De esta experimentación obtener:
 7.	Del mejor MSE del resultado anterior, experimentar con las métricas de optimización 
 
 Experimentos	RMSE
+
     - ‘sgd’	
     - ‘adam’	
     - ‘otro’
+
 De esta experimentación obtener:
+
     - g)	El RMSE para cada caso
     - h)	el mejor RMSE 
     - i)	Los gráficos resultantes de la serie de tiem 
